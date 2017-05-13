@@ -22,6 +22,9 @@
     <Filter Include="Source Files\Corner_of_0s_and_1s">
       <UniqueIdentifier>{951a183b-0b71-4307-96db-f1b3557ba718}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Loop_Tunnel">
+      <UniqueIdentifier>{fb5f580a-95da-494e-a3cc-3aea2acbcb99}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Intro_Gates\circleOfNumbers.cpp">
@@ -95,6 +98,36 @@
     </ClCompile>
     <ClCompile Include="Corner_of_0s_and_1s\equalPairOfBits.cpp">
       <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\leastFactorial.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\countSumOfTwoRepresentations2.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\magicalWell.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\lineUp.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\additionWithoutCarrying.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\appleBoxes.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\increaseNumberRoundness.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\rounders.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\candles.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop_Tunnel\countBlackCells.cpp">
+      <Filter>Source Files\Loop_Tunnel</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

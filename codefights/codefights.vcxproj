@@ -43,6 +43,16 @@
     <ClCompile Include="Intro_Gates\maxMultiple.cpp" />
     <ClCompile Include="Intro_Gates\phoneCall.cpp" />
     <ClCompile Include="Intro_Gates\seatsInTheater.cpp" />
+    <ClCompile Include="Loop_Tunnel\additionWithoutCarrying.cpp" />
+    <ClCompile Include="Loop_Tunnel\appleBoxes.cpp" />
+    <ClCompile Include="Loop_Tunnel\candles.cpp" />
+    <ClCompile Include="Loop_Tunnel\countBlackCells.cpp" />
+    <ClCompile Include="Loop_Tunnel\countSumOfTwoRepresentations2.cpp" />
+    <ClCompile Include="Loop_Tunnel\increaseNumberRoundness.cpp" />
+    <ClCompile Include="Loop_Tunnel\leastFactorial.cpp" />
+    <ClCompile Include="Loop_Tunnel\lineUp.cpp" />
+    <ClCompile Include="Loop_Tunnel\magicalWell.cpp" />
+    <ClCompile Include="Loop_Tunnel\rounders.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{152BB9BF-5A08-44A1-96A8-852E3AA0D943}</ProjectGuid>
