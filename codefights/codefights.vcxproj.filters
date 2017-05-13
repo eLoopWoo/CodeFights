@@ -28,6 +28,9 @@
     <Filter Include="Source Files\List_Forest_Edge">
       <UniqueIdentifier>{fd9135a9-9aca-4062-b939-3175ea8acffd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Labyrinth_of_Nested_Loops">
+      <UniqueIdentifier>{cdca0d81-e1fa-4349-bc5b-721efcc04c1c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Intro_Gates\circleOfNumbers.cpp">
@@ -155,6 +158,27 @@
     </ClCompile>
     <ClCompile Include="List_Forest_Edge\makeArrayConsecutive2.cpp">
       <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinth_of_Nested_Loops\pagesNumberingWithInk.cpp">
+      <Filter>Source Files\Labyrinth_of_Nested_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinth_of_Nested_Loops\isPower.cpp">
+      <Filter>Source Files\Labyrinth_of_Nested_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinth_of_Nested_Loops\isSumOfConsecutive2.cpp">
+      <Filter>Source Files\Labyrinth_of_Nested_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinth_of_Nested_Loops\squareDigitsSequence.cpp">
+      <Filter>Source Files\Labyrinth_of_Nested_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinth_of_Nested_Loops\comfortableNumbers.cpp">
+      <Filter>Source Files\Labyrinth_of_Nested_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinth_of_Nested_Loops\weakNumbers.cpp">
+      <Filter>Source Files\Labyrinth_of_Nested_Loops</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinth_of_Nested_Loops\rectangleRotation.cpp">
+      <Filter>Source Files\Labyrinth_of_Nested_Loops</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
