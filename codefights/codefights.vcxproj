@@ -18,6 +18,24 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="At_the_Crossroads\arithmeticExpression.cpp" />
+    <ClCompile Include="At_the_Crossroads\extraNumber.cpp" />
+    <ClCompile Include="At_the_Crossroads\isInfiniteProcess.cpp" />
+    <ClCompile Include="At_the_Crossroads\knapsackLight.cpp" />
+    <ClCompile Include="At_the_Crossroads\metroCard.cpp" />
+    <ClCompile Include="At_the_Crossroads\reachNextLevel.cpp" />
+    <ClCompile Include="At_the_Crossroads\tennisSet.cpp" />
+    <ClCompile Include="At_the_Crossroads\willYou.cpp" />
+    <ClCompile Include="Intro_Gates\addTwoDigits.cpp" />
+    <ClCompile Include="Intro_Gates\candies.cpp" />
+    <ClCompile Include="Intro_Gates\circleOfNumbers.cpp" />
+    <ClCompile Include="Intro_Gates\largestNumber.cpp" />
+    <ClCompile Include="Intro_Gates\lateRide.cpp" />
+    <ClCompile Include="Intro_Gates\maxMultiple.cpp" />
+    <ClCompile Include="Intro_Gates\phoneCall.cpp" />
+    <ClCompile Include="Intro_Gates\seatsInTheater.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{152BB9BF-5A08-44A1-96A8-852E3AA0D943}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -145,8 +163,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

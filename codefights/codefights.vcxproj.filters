@@ -13,5 +13,61 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Intro_Gates">
+      <UniqueIdentifier>{47316256-7e3d-4a4b-b1f4-d6d0dd3a4510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\At_the_Crossroads">
+      <UniqueIdentifier>{cda76858-b289-465b-9a6f-f2c4968b572f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Intro_Gates\circleOfNumbers.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro_Gates\largestNumber.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro_Gates\lateRide.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro_Gates\maxMultiple.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro_Gates\phoneCall.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro_Gates\seatsInTheater.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro_Gates\addTwoDigits.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro_Gates\candies.cpp">
+      <Filter>Source Files\Intro_Gates</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\reachNextLevel.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\knapsackLight.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\extraNumber.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\isInfiniteProcess.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\arithmeticExpression.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\tennisSet.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\willYou.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="At_the_Crossroads\metroCard.cpp">
+      <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
