@@ -19,6 +19,9 @@
     <Filter Include="Source Files\At_the_Crossroads">
       <UniqueIdentifier>{cda76858-b289-465b-9a6f-f2c4968b572f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Corner_of_0s_and_1s">
+      <UniqueIdentifier>{951a183b-0b71-4307-96db-f1b3557ba718}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Intro_Gates\circleOfNumbers.cpp">
@@ -68,6 +71,30 @@
     </ClCompile>
     <ClCompile Include="At_the_Crossroads\metroCard.cpp">
       <Filter>Source Files\At_the_Crossroads</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\killKthBit.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\arrayPacking.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\rangeBitCount.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\mirrorBits.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\secondRightmostZeroBit.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\swapAdjacentBits.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\differentRightmostBit.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
+    </ClCompile>
+    <ClCompile Include="Corner_of_0s_and_1s\equalPairOfBits.cpp">
+      <Filter>Source Files\Corner_of_0s_and_1s</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

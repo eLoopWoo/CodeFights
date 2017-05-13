@@ -27,6 +27,14 @@
     <ClCompile Include="At_the_Crossroads\reachNextLevel.cpp" />
     <ClCompile Include="At_the_Crossroads\tennisSet.cpp" />
     <ClCompile Include="At_the_Crossroads\willYou.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\arrayPacking.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\differentRightmostBit.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\equalPairOfBits.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\killKthBit.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\mirrorBits.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\rangeBitCount.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\secondRightmostZeroBit.cpp" />
+    <ClCompile Include="Corner_of_0s_and_1s\swapAdjacentBits.cpp" />
     <ClCompile Include="Intro_Gates\addTwoDigits.cpp" />
     <ClCompile Include="Intro_Gates\candies.cpp" />
     <ClCompile Include="Intro_Gates\circleOfNumbers.cpp" />
