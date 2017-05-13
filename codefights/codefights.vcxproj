@@ -43,6 +43,14 @@
     <ClCompile Include="Intro_Gates\maxMultiple.cpp" />
     <ClCompile Include="Intro_Gates\phoneCall.cpp" />
     <ClCompile Include="Intro_Gates\seatsInTheater.cpp" />
+    <ClCompile Include="List_Forest_Edge\arrayReplace.cpp" />
+    <ClCompile Include="List_Forest_Edge\concatenateArrays.cpp" />
+    <ClCompile Include="List_Forest_Edge\createArray.cpp" />
+    <ClCompile Include="List_Forest_Edge\firstReverseTry.cpp" />
+    <ClCompile Include="List_Forest_Edge\isSmooth.cpp" />
+    <ClCompile Include="List_Forest_Edge\makeArrayConsecutive2.cpp" />
+    <ClCompile Include="List_Forest_Edge\removeArrayPart.cpp" />
+    <ClCompile Include="List_Forest_Edge\replaceMiddle.cpp" />
     <ClCompile Include="Loop_Tunnel\additionWithoutCarrying.cpp" />
     <ClCompile Include="Loop_Tunnel\appleBoxes.cpp" />
     <ClCompile Include="Loop_Tunnel\candles.cpp" />

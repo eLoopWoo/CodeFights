@@ -25,6 +25,9 @@
     <Filter Include="Source Files\Loop_Tunnel">
       <UniqueIdentifier>{fb5f580a-95da-494e-a3cc-3aea2acbcb99}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\List_Forest_Edge">
+      <UniqueIdentifier>{fd9135a9-9aca-4062-b939-3175ea8acffd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Intro_Gates\circleOfNumbers.cpp">
@@ -128,6 +131,30 @@
     </ClCompile>
     <ClCompile Include="Loop_Tunnel\countBlackCells.cpp">
       <Filter>Source Files\Loop_Tunnel</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\createArray.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\arrayReplace.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\firstReverseTry.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\concatenateArrays.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\removeArrayPart.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\isSmooth.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\replaceMiddle.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
+    </ClCompile>
+    <ClCompile Include="List_Forest_Edge\makeArrayConsecutive2.cpp">
+      <Filter>Source Files\List_Forest_Edge</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
